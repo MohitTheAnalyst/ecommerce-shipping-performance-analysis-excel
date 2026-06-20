@@ -64,7 +64,7 @@ Before performing analysis, the dataset was cleaned and prepared to ensure accur
 
 ---
 
-# 📈 Analyzing Through Pivot Tables
+# 📈 Exploratory Data Analysis (Through Pivot Tables)
 
 Pivot Tables were used to answer key business questions and identify patterns in shipment operations, customer behavior, warehouse utilization, and delivery performance.
 
