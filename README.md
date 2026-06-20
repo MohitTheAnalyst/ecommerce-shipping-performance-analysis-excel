@@ -161,9 +161,6 @@ Provides a breakdown of shipment volumes across all shipping modes.
 #### Warehouse Utilization Analysis
 Displays warehouse-wise shipment handling performance.
 
-#### Customer Care Call Analysis
-Highlights customer support interactions across warehouses and shipment methods.
-
 #### Product Importance Analysis
 Shows purchasing trends across high, medium, and low-importance products.
 
