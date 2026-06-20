@@ -33,8 +33,8 @@ The dataset contains shipping, customer, and product-related information for **1
 | Metric | Value |
 |----------|----------|
 | Total Records | 10,999 |
-| Delayed Deliveries | 6,563 |
-| On-Time Deliveries | 4,436 |
+| Delayed Deliveries | 4,436 |
+| On-Time Deliveries | 6,563 |
 | Most Used Shipment Mode | Ship |
 | Most Utilized Warehouse | Warehouse F |
 | Average Product Weight | 3,634 gms |
